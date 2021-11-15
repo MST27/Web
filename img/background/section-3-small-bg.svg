@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="839" viewBox="0 0 390 839">
+  <defs>
+    <filter id="Intersection_32" x="-152.968" y="-73.915" width="694.969" height="2546.598" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-section-3-small-bg">
+      <rect width="390" height="839"/>
+    </clipPath>
+  </defs>
+  <g id="section-3-small-bg" clip-path="url(#clip-section-3-small-bg)">
+    <rect width="390" height="839" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_32)">
+      <path id="Intersection_32-2" data-name="Intersection 32" d="M0,2249.6V11.6A751.4,751.4,0,0,0,375.628,5.28Q386.957,2.733,397.969,0V2249.6Z" transform="translate(-4.47 55.59)" fill="#fff"/>
+    </g>
+    <path id="Intersection_31" data-name="Intersection 31" d="M282.872,353.434C175.4,247.862,79.742,175.752,0,126.527V11.6A751.513,751.513,0,0,0,375.628,5.28Q386.965,2.731,397.969,0V433.686C367.649,424.591,329.836,399.566,282.872,353.434Z" transform="translate(-4.468 55.585)" fill="#f6f6f6"/>
+  </g>
+</svg>

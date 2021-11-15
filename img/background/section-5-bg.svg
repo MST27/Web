@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1533" viewBox="0 0 1920 1533">
+  <defs>
+    <filter id="Intersection_33" x="-148.5" y="-11.684" width="2216" height="1750.685" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-section-5-bg">
+      <rect width="1920" height="1533"/>
+    </clipPath>
+  </defs>
+  <g id="section-5-bg" clip-path="url(#clip-section-5-bg)">
+    <rect width="1920" height="1533" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_33)">
+      <path id="Intersection_33-2" data-name="Intersection 33" d="M328.913,1476.5V68.744a1766.964,1766.964,0,0,1,383.2-45.785c491.759-4.774,640.957,111.109,956.756,162.32,278.36,55.062,501.962-.067,579.041-23.839V1476.5Z" transform="translate(-328.91 95)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

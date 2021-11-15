@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1533" viewBox="0 0 1920 1533">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.121" y1="0.071" x2="0.048" y2="0.91" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6aefcf"/>
+      <stop offset="1" stop-color="#4dbcb7"/>
+    </linearGradient>
+    <filter id="Intersection_32" x="-148.5" y="-11.098" width="2216" height="1711.598" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-section-4-bg">
+      <rect width="1920" height="1533"/>
+    </clipPath>
+  </defs>
+  <g id="section-4-bg" clip-path="url(#clip-section-4-bg)">
+    <rect width="1920" height="1533" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_32)">
+      <path id="Intersection_32-2" data-name="Intersection 32" d="M26.991,1415.5V144.142c68.525,24.8,260.9,79.894,499.837,23.81C800.483,115.3,929.768-3.86,1355.9,1.049c299.241,3.448,516.783,109.63,590.09,150.808V1415.5Z" transform="translate(-26.99 117.5)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

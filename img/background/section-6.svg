@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="310" viewBox="0 0 1920 310">
+  <defs>
+    <clipPath id="clip-Artboard_2">
+      <rect width="1920" height="310"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
+    <rect width="1920" height="310" fill="rgba(255,255,255,0)"/>
+    <path id="Intersection_31" data-name="Intersection 31" d="M138.054,668.271V140.349C194,169.445,391.5,259.033,657.466,231.864c286.776-17.951,433.787-120.006,869.726-61.7,251.849,33.684,438.559,129.455,535.862,190.231V668.271Z" transform="translate(-138.054 -140.35)" fill="#f6f6f6"/>
+  </g>
+</svg>

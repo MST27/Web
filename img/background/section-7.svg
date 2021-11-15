@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="300" viewBox="0 0 1920 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.288" y1="-0.047" x2="0.84" y2="0.398" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21aba5"/>
+      <stop offset="0.272" stop-color="#24aea7"/>
+      <stop offset="0.77" stop-color="#5ae0c6"/>
+      <stop offset="1" stop-color="#6aefcf"/>
+    </linearGradient>
+    <filter id="Intersection_2" x="-149" y="-52.097" width="2217.5" height="520.097" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-section-7">
+      <rect width="1920" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="section-7" clip-path="url(#clip-section-7)">
+    <rect width="1920" height="300" fill="rgba(255,255,255,0)"/>
+    <g id="Footer_-_Desktop" data-name="Footer - Desktop" transform="translate(-0.5 77.403)">
+      <g transform="matrix(1, 0, 0, 1, 0.5, -77.4)" filter="url(#Intersection_2)">
+        <path id="Intersection_2-2" data-name="Intersection 2" d="M0,223.1v-70.9C71.882,111.956,293.3,3.63,599.052.147c431-4.91,561.764,114.246,838.545,166.9,219.083,50.842,399.464,10.316,482.9-16.181V223.1Z" transform="translate(-0.5 77.4)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
