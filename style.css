@@ -299,16 +299,26 @@ a:hover {
     background-position:79%;
     /* background: transparent linear-gradient(86deg, #4DBCB7 0%, #6AEFCF 100%) no-repeat padding-box; */
   }
+
+  /* --- SECTION 3 - Framework --- */
+  #section-3 {
+    padding-top:280px;
+    margin-top:-300px;
+  }
   .scooter-top {
     max-width:240px;
     position: absolute;
     top:-290px;
     right:0px;
   }
-
-  /* --- SECTION 3 - Framework --- */
   .framework-img {
     max-width:90px;
+  }
+
+  /* --- SECTION 4 - Control Panel --- */
+  #section-4 {
+    padding-top:335px;
+    margin-top:-163px;
   }
 
   /* --- SECTION 6 - Follow us --- */
@@ -356,34 +366,48 @@ a:hover {
     background:url('img/background/section-3-small-bg.svg') no-repeat;
     background-size:cover;
   }
+  .framework-img {
+    height:100px;
+    }
+  .framework-services {
+    margin-top:0;
+  }
+  .service {
+    margin-top:60px;
+  }
 
+  /* --- SECTION 4 - Control Panel --- */
+  #section-4 {
+    background:url('img/background/section-4-small-bg.svg') no-repeat;
+    background-size:cover;
+  }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
 
   /* --- SECTION 1 - Summary of service --- */
-    .tablet-top {
-      max-width:220px;
-    }
+  .tablet-top {
+    max-width:220px;
+  }
    .sec-1-left-col {
      max-width:unset;
    }
 
   /* --- SECTION 2 - Additional information --- */
-    .scooter-top {
-      max-width:220px;
-      position: absolute;
-      top:0;
-      right:0;
-    }
+  .scooter-top {
+    max-width:220px;
+    position: absolute;
+    top:0;
+    right:0;
+  }
 
   /* --- SECTION 6 - Follow us --- */
-    .scooter-bottom {
-      max-width:180px;
-      position: absolute;
-      top:-400px;
-      right:0px;
+  .scooter-bottom {
+    max-width:180px;
+    position: absolute;
+    top:-400px;
+    right:0px;
   }
   .social-media img {
     max-width:30px;

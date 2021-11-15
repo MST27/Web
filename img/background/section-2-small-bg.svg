@@ -6,7 +6,7 @@
       <stop offset="0.77" stop-color="#5ae0c6"/>
       <stop offset="1" stop-color="#6aefcf"/>
     </linearGradient>
-    <filter id="Intersection_31" x="-147" y="-74.275" width="686" height="1080.883" filterUnits="userSpaceOnUse">
+    <filter id="Intersection_31" x="-144" y="45.337" width="686" height="1080.883" filterUnits="userSpaceOnUse">
       <feOffset dy="19" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="49.5" result="blur"/>
       <feFlood flood-opacity="0.2"/>
@@ -20,7 +20,7 @@
   <g id="section-2-small-bg" clip-path="url(#clip-section-2-small-bg)">
     <rect width="390" height="839" fill="rgba(255,255,255,0)"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_31)">
-      <path id="Intersection_31-2" data-name="Intersection 31" d="M-2513.94,803.5V21.7c36.4-1.714,75.174-2.418,116.84-1.938A1301.868,1301.868,0,0,1-2124.94,51.8V803.5Z" transform="translate(2515.44 35.61)" fill="url(#linear-gradient)"/>
+      <path id="Intersection_31-2" data-name="Intersection 31" d="M-2513.94,803.5V21.7c36.4-1.714,75.174-2.418,116.84-1.938A1301.868,1301.868,0,0,1-2124.94,51.8V803.5Z" transform="translate(2518.44 155.22)" fill="url(#linear-gradient)"/>
     </g>
   </g>
 </svg>
