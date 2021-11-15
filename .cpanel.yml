@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home2/irinamar/test.markostankovic.xyz/
+    - /bin/cp -R * $DEPLOYPATH
+    
