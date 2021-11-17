@@ -318,13 +318,30 @@ a:hover {
 
   /* --- SECTION 4 - Control Panel --- */
   #section-4 {
-    padding-top:335px;
-    margin-top:-163px;
+    padding-top:420px;
+    margin-top:-271px;
+    padding-bottom:150px;
+  }
+  .laptop-panel {
+    max-width:300px;
+  }
+
+  /* --- SECTION 5 - Using FleetyFly --- */
+  #section-5 {
+    padding-top:260px;
+    margin-top:-270px;
   }
 
   /* --- SECTION 6 - Follow us --- */
+  #section-6 {
+    padding-top:0;
+    margin-top:0;
+    position: relative;
+  }
   .scooter-bottom {
     max-width:180px;
+    position: relative;
+    top:-51px;
   }
 }
 
@@ -352,6 +369,9 @@ a:hover {
   .d-none-sm {
     display:none;
   }
+  .d-block-sm {
+    display:block;
+  }
   .small-heading {
     font-size:1rem;
   }
@@ -377,11 +397,60 @@ a:hover {
     margin-top:60px;
   }
 
+  /* --- SECTION 6 - Follow us --- */
+  .scooter-bottom {
+    transform:rotate(352deg);
+  }
+
   /* --- SECTION 4 - Control Panel --- */
   #section-4 {
     background:url('img/background/section-4-small-bg.svg') no-repeat;
     background-size:cover;
   }
+  .laptop-panel {
+    padding:20px 0 40px 0;
+  }
+  .cp-list {
+    margin-bottom:60px;
+  }
+  .uf-list {
+    margin-bottom:60px;
+  }
+
+  /* --- SECTION 5 - Using FleetyFly --- */
+  #section-5 {
+    background:url('img/background/section-5-small-bg.svg') no-repeat;
+    background-size:cover;
+  }
+  .heading-sec-5 {
+    margin-bottom:60px;
+    text-align:center;
+  }
+  .bi-check-square {
+    font-size:1.7rem;
+  }
+
+  /* --- SECTION 6 - Follow us --- */
+  #section-6 {
+    background:url('img/background/section-6-small-bg.svg') no-repeat;
+    background-size:cover;
+    text-align:center;
+    height:unset;
+  }
+  .subscribe input {
+    margin: 30px 0 30px 0;
+    box-shadow: 0 3px 6px #00000029;
+    text-align:center;
+  }
+  .subscribe {
+    margin-bottom:80px;
+  }
+
+  /* --- SECTION 7 - Footer --- */
+  .social-media {
+    margin:20px 0 60px 0;
+  }
+
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -600,7 +669,7 @@ a:hover {
     right:-10px;
   }
 
-  /* --- SECTION 7 --- */
+  /* --- SECTION 7 - Footer --- */
   .subscribe {
     margin-top:30px;
     width:100%;
