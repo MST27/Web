@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="1204" viewBox="0 0 390 1204">
+  <defs>
+    <clipPath id="clip-section-6-small-bg">
+      <rect width="390" height="1204"/>
+    </clipPath>
+  </defs>
+  <g id="section-6-small-bg" clip-path="url(#clip-section-6-small-bg)">
+    <rect width="390" height="1204" fill="rgba(255,255,255,0)"/>
+    <path id="Intersection_33" data-name="Intersection 33" d="M-3089.231,1153.126V155.444c104.244-35.334,213.746-68.212,397.657-43.041l.343.047V1153.126Z" transform="translate(3085.231 66.874)" fill="#f6f6f6"/>
+  </g>
+</svg>
