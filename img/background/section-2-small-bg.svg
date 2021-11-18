@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="839" viewBox="0 0 390 839">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="853" viewBox="0 0 390 853">
   <defs>
     <linearGradient id="linear-gradient" x1="1.007" y1="0.071" x2="0.515" y2="0.299" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#21aba5"/>
@@ -6,21 +6,21 @@
       <stop offset="0.77" stop-color="#5ae0c6"/>
       <stop offset="1" stop-color="#6aefcf"/>
     </linearGradient>
-    <filter id="Intersection_31" x="-144" y="45.337" width="686" height="1080.883" filterUnits="userSpaceOnUse">
+    <filter id="Intersection_31" x="-157" y="-46.639" width="701" height="1080.883" filterUnits="userSpaceOnUse">
       <feOffset dy="19" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="49.5" result="blur"/>
       <feFlood flood-opacity="0.2"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <clipPath id="clip-section-2-small-bg">
-      <rect width="390" height="839"/>
+    <clipPath id="clip-section-2-small-bg-2">
+      <rect width="390" height="853"/>
     </clipPath>
   </defs>
-  <g id="section-2-small-bg" clip-path="url(#clip-section-2-small-bg)">
-    <rect width="390" height="839" fill="rgba(255,255,255,0)"/>
+  <g id="section-2-small-bg-2" clip-path="url(#clip-section-2-small-bg-2)">
+    <rect width="390" height="853" fill="rgba(255,255,255,0)"/>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_31)">
-      <path id="Intersection_31-2" data-name="Intersection 31" d="M-2513.94,803.5V21.7c36.4-1.714,75.174-2.418,116.84-1.938A1301.868,1301.868,0,0,1-2124.94,51.8V803.5Z" transform="translate(2518.44 155.22)" fill="url(#linear-gradient)"/>
+      <path id="Intersection_31-2" data-name="Intersection 31" d="M-2513.939,803.5V21.7c37.806-1.714,78.072-2.418,121.345-1.938A1401.765,1401.765,0,0,1-2109.94,51.8V803.5Z" transform="translate(2505.44 63.24)" fill="url(#linear-gradient)"/>
     </g>
   </g>
 </svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="382" viewBox="0 0 390 382">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.113" y1="0.112" x2="1.173" y2="0.317" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21aba5"/>
+      <stop offset="0.272" stop-color="#24aea7"/>
+      <stop offset="0.299" stop-color="#2ab3aa"/>
+      <stop offset="0.539" stop-color="#5ae0c6"/>
+      <stop offset="1" stop-color="#6aefcf"/>
+    </linearGradient>
+    <filter id="Intersection_4" x="-148.5" y="-52.172" width="705" height="612.172" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-section-7-small-bg">
+      <rect width="390" height="382"/>
+    </clipPath>
+  </defs>
+  <g id="section-7-small-bg" clip-path="url(#clip-section-7-small-bg)">
+    <rect width="390" height="382" fill="rgba(255,255,255,0)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_4)">
+      <path id="Intersection_4-2" data-name="Intersection 4" d="M-3117.746,352.5V37.328c173.923,27.544,270.914,95.7,408,139.6V352.5Z" transform="translate(3117.75 40)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
